@@ -1,74 +1,6 @@
 # frontend-css-assignments
 A collection of CSS practice tasks completed during my Web Development Internship, covering CSS Grid, Layout Design, Transitions, Transformations, Animations, and CSS Loaders.
 
-### Day 06 – CSS Selectors and Specificity
-
-* Universal Selector
-* Element Selector
-* ID Selector
-* Class Selector
-* Descendant Selector
-* Sibling Combinator
-* Child Combinator
-* Attribute Selector
-* Pseudo Classes
-* Pseudo Elements
-* Cascading and Specificity
-* !important Rule
-* Inheritance
-
-### Day 07 – CSS Box Model
-
-* Width and Height
-* Border
-* Border Radius
-* Padding
-* Margin
-* Display Property
-* Inline, Block and Inline-Block Elements
-* Relative Units (%, em, rem)
-
-### Day 08 – CSS Effects and Positioning
-
-* Opacity
-* CSS Transitions
-* Transform Rotate
-* Transform Scale
-* Transform Translate
-* Transform Skew
-* Box Shadow
-* Background Images
-* Card Hover Effects
-* Position Property
-* Simple Shape Design
-
-### Day 09 – CSS Flexbox
-
-* Display Flex
-* Flex Direction
-* Justify Content
-* Flex Wrap
-* Align Items
-* Align Content
-* Align Self
-* Flex Sizing
-* Flex Shorthand
-
-### Day 10 – CSS Grid and Responsive Design
-
-* CSS Grid Basics
-* Grid Template
-* Repeat Function
-* Grid Rows and Columns
-* Grid Gap
-* Grid Properties
-* CSS Animations
-* Animation Shorthand
-* Media Queries
-* Orientation Media Queries
-* Responsive Layout Design
-* Animated Loader Project
-
 ## Projects and Tasks
 
 * CSS Selector Practice Page
@@ -94,12 +26,6 @@ A collection of CSS practice tasks completed during my Web Development Internshi
 * Developed responsive webpages using media queries.
 * Improved practical CSS development and debugging skills.
 
-## Technologies Used
-
-* HTML5
-* CSS3
-* Visual Studio Code
-* Live Server
 Day 06 tAsk:
 <img width="1920" height="1013" alt="Day06 Task1" src="https://github.com/user-attachments/assets/e3648056-cabd-4bfc-a46b-ab572ae1482c" />
 Day 07 Task:
